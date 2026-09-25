@@ -31,8 +31,8 @@ Nebula/
 | Challenge01 | ![Résolu](https://img.shields.io/badge/-Résolu-2ea44f) | [Writeup01](Challenge01/Writeup01.md) | ID réel, effectif,saved et `env`|
 | Challenge02 | ![Résolu](https://img.shields.io/badge/-Résolu-2ea44f) | [Writeup02](Challenge02/Writeup02.md) | Injection de commandes et environnement|
 | Challenge03 | ![Résolu](https://img.shields.io/badge/-Résolu-2ea44f) | [Writeup03](Challenge03/Writeup03.md) | Crontab, permissions UNIX |
-| Challenge04 | ![En cours](https://img.shields.io/badge/-En%20cours-dbab09)| — | |
-| Challenge05 | ![À faire](https://img.shields.io/badge/-À%20faire-lightgrey) | — | |
+| Challenge04 | ![Résolu](https://img.shields.io/badge/-Résolu-2ea44f) | [Writeup04](Challenge04/Writeup04.md) | Lien symbolique  | |
+| Challenge05 | ![En cours](https://img.shields.io/badge/-En%20cours-dbab09)| — | |
 | Challenge06 | ![À faire](https://img.shields.io/badge/-À%20faire-lightgrey) | — | |
 | Challenge07 | ![À faire](https://img.shields.io/badge/-À%20faire-lightgrey) | — | |
 | Challenge08 | ![À faire](https://img.shields.io/badge/-À%20faire-lightgrey) | — | |
