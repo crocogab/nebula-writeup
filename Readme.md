@@ -35,8 +35,8 @@ Nebula/
 | Challenge05 | ![Résolu](https://img.shields.io/badge/-Résolu-2ea44f)| [Writeup05](Challenge05/Writeup05.md)| Archives TAR, SSH, Permissions de dossiers|
 | Challenge06 |![Résolu](https://img.shields.io/badge/-Résolu-2ea44f)  | [Writeup06](Challenge06/Writeup06.md) | Legacy Unix , crack de hash , DES (Unix)|
 | Challenge07 | ![Résolu](https://img.shields.io/badge/-Résolu-2ea44f)  | [Writeup07](Challenge07/Writeup07.md)| thttpd , perl , command injection|
-| Challenge08 | ![En cours](https://img.shields.io/badge/-En%20cours-dbab09) | — | |
-| Challenge09 | ![À faire](https://img.shields.io/badge/-À%20faire-lightgrey) | — | |
+| Challenge08 | ![Résolu](https://img.shields.io/badge/-Résolu-2ea44f) | [Writeup08](Challenge08/Writeup08.md) | Wireshark, Reseau, Telnet|
+| Challenge09 | ![En cours](https://img.shields.io/badge/-En%20cours-dbab09) | — | |
 | Challenge10 | ![À faire](https://img.shields.io/badge/-À%20faire-lightgrey) | — | |
 | Challenge11 | ![À faire](https://img.shields.io/badge/-À%20faire-lightgrey) | — | |
 | Challenge12 | ![À faire](https://img.shields.io/badge/-À%20faire-lightgrey) | — | |
