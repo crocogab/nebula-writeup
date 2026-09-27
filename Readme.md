@@ -32,8 +32,8 @@ Nebula/
 | Challenge02 | ![Résolu](https://img.shields.io/badge/-Résolu-2ea44f) | [Writeup02](Challenge02/Writeup02.md) | Injection de commandes et environnement|
 | Challenge03 | ![Résolu](https://img.shields.io/badge/-Résolu-2ea44f) | [Writeup03](Challenge03/Writeup03.md) | Crontab, permissions UNIX |
 | Challenge04 | ![Résolu](https://img.shields.io/badge/-Résolu-2ea44f) | [Writeup04](Challenge04/Writeup04.md) | Lien symbolique  | |
-| Challenge05 | ![En cours](https://img.shields.io/badge/-En%20cours-dbab09)| — | |
-| Challenge06 | ![À faire](https://img.shields.io/badge/-À%20faire-lightgrey) | — | |
+| Challenge05 | ![Résolu](https://img.shields.io/badge/-Résolu-2ea44f)| [Writeup05](Challenge05/Writeup05.md)| Archives TAR, SSH, Permissions de dossiers|
+| Challenge06 | ![En cours](https://img.shields.io/badge/-En%20cours-dbab09) | — | |
 | Challenge07 | ![À faire](https://img.shields.io/badge/-À%20faire-lightgrey) | — | |
 | Challenge08 | ![À faire](https://img.shields.io/badge/-À%20faire-lightgrey) | — | |
 | Challenge09 | ![À faire](https://img.shields.io/badge/-À%20faire-lightgrey) | — | |
